@@ -25,7 +25,7 @@ print(norm_of_matrix)
 
 ## Output:
 
-![GitHub Logo](1.png)
+![GitHub Logo](2.png)
 
 ## Result
 Thus the program for 2-norm of a matrix is written and verified.
